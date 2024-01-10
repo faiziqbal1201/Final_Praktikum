@@ -2,6 +2,8 @@
 # Muhammad Faiz Iqbal
 # Kasir Kantin
 
+## Link Youtube :
+   - https://youtu.be/_SeJJFtX2uk
 ## Let's discuss 
 ### Daftar Menu (menu):
    - menu adalah kamus (dictionary) yang menyimpan daftar item makanan beserta harganya.
