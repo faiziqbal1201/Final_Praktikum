@@ -3,7 +3,7 @@
 # Kasir Kantin
 
 ## Link Youtube :
-   - https://youtu.be/_SeJJFtX2uk
+   - https://youtu.be/F8KK2M3231g
 ## Let's discuss 
 ### Daftar Menu (menu):
    - menu adalah kamus (dictionary) yang menyimpan daftar item makanan beserta harganya.
